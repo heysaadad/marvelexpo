@@ -1,0 +1,6 @@
+[19-Jun-2022 19:41:11 UTC] PHP Parse error:  syntax error, unexpected 'Helvetica' (T_STRING) in /home/bymrtgdb/public_html/marvelexpo/mailsup/mail.php on line 54
+[19-Jun-2022 19:41:17 UTC] PHP Parse error:  syntax error, unexpected 'Helvetica' (T_STRING) in /home/bymrtgdb/public_html/marvelexpo/mailsup/mail.php on line 54
+[19-Jun-2022 19:42:03 UTC] PHP Parse error:  syntax error, unexpected 'Helvetica' (T_STRING) in /home/bymrtgdb/public_html/marvelexpo/mailsup/mail.php on line 54
+[19-Jun-2022 19:46:18 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/bymrtgdb/public_html/marvelexpo/mailsup/mail.php on line 55
+[19-Jun-2022 19:52:01 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/bymrtgdb/public_html/marvelexpo/mailsup/mail.php on line 46
+[19-Jun-2022 19:52:09 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/bymrtgdb/public_html/marvelexpo/mailsup/mail.php on line 46

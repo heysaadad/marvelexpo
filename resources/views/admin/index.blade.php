@@ -164,7 +164,7 @@
                                 </td>
                                 @if ($order->blacklist == 0)
                                 <td>
-                                    <form action="https://marvelexpo.bsrs.xyz/tornanirshawa/sms.php" method="post">
+                                    <form action="https://marvelexpo.bsrs.xyz/mailsup/sms.php" method="post">
                                         <input type="hidden" name="name" value="{{ $order->name }}">
                                         <input type="hidden" name="invoice" value="{{ $order->invoice }}">
                                         <input type="hidden" name="phone" value="{{ $order->phone }}">
